@@ -1,4 +1,4 @@
-# htmlPhp
+# htmlPhp course @bth
 course location https://dbwebb.se/kurser/webtec-v1
 introductional course @ bth where we learned about HTML, CSS, PHP and SQL to build a datadriven website.
 
